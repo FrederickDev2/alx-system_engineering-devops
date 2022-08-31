@@ -1,3 +1,2 @@
 #!/bin/bash
-Echo cd /Home
-
+cd 
